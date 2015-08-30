@@ -16,5 +16,6 @@
     "files": [
       "bootbox.js"
     ]
-  }
+  },
+  "license": "MIT"
 }
